@@ -1,3 +1,4 @@
 # Project exclude paths
 /Export/
 /target/
+/log/
